@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Carim DayZ Project
 
-You can use the [editor on GitHub](https://github.com/schana/carim/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Come support growing the community through open source!
+Most of the conversation happens on the [Carim Discord](https://discord.gg/kdPnVu4).
+You can support the project by [donating](https://paypal.me/cnofafva). Thank you!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## DayZ Server
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```text
+Carim Loot+|Guns+|NPCs+|Airdrops|Trader|Base discord.gg/kdPnVu4
+178.63.43.16:2302
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Come join Carim, the server dedicated to serving the community through open source contributions. The server's configuration is automatically generated to be fun, fair, and balanced for whatever playstyle suits you. The server is managed by an IT professional, ensuring stability and responsiveness to issues.
 
-### Jekyll Themes
+[Full mod list](https://steamcommunity.com/sharedfiles/filedetails/?id=2034121973)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/schana/carim/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Open source projects
 
-### Support or Contact
+### Tools
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. [Carim Discord Bot](https://github.com/schana/carim-discord-bot)
+   + a bot that provides cross chat between the game and discord along with admin RCon commands for server owners
+1. [Carim configuration tool](https://github.com/schana/dayz-server-carim)
+   + tool used to generate complete server configuration
+
+### Mods
+
+1. [SchanaModParty](https://github.com/schana/dayz-mod-party)
+1. [SchanaModPartyPluginVPPMap](https://github.com/schana/dayz-mod-party-plugin-vppmap)
+1. [SchanaModAutorun](https://github.com/schana/dayz-mod-autorun)
+1. [SchanaModCompass](https://github.com/schana/dayz-mod-compass)
+1. [SchanaModTraderNametags](https://github.com/schana/dayz-mod-trader-nametags)
+1. [SchanaModLockPick](https://github.com/schana/dayz-mod-lock-pick)
+1. [SchanaModNoVehicleDamage](https://github.com/schana/dayz-mod-no-vehicle-damage)
+1. [SchanaModSurvivorSelect](https://github.com/schana/dayz-mod-survivor-select)
+1. [SchanaModExpansionChatRCon](https://github.com/schana/dayz-mod-expansion-chat-rcon)
+1. [SchanaModAdminOmniTool](https://github.com/schana/dayz-mod-admin-omni-tool)
