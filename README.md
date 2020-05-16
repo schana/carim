@@ -4,14 +4,27 @@ Come support growing the community through open source!
 Most of the conversation happens on the [Carim Discord](https://discord.gg/kdPnVu4).
 You can support the project by [donating](https://paypal.me/cnofafva). Thank you!
 
-## DayZ Server
+## DayZ Servers
 
 ```text
-Carim Loot+|Guns+|NPCs+|Airdrops|Trader|Base discord.gg/kdPnVu4
+Carim Loot+|Guns+|NPCs+|Airdrops|Trader|Base
 178.63.43.16:2302
+Classic PvP oriented server with the best features from the best mods
 ```
 
-Come join Carim, the server dedicated to serving the community through open source contributions. The server's configuration is automatically generated to be fun, fair, and balanced for whatever playstyle suits you. The server is managed by an IT professional, ensuring stability and responsiveness to issues.
+```text
+Carim Survival
+178.63.43.16:2502
+Difficult survival with some quality of life improvements like autorun, compass, and party system
+```
+
+```text
+Carim Deathmatch Zelenogorsk
+178.63.43.16:2402
+Spawn fully equipped with assault rifle and sniper around Zelenogorsk
+```
+
+Come join Carim, the servers dedicated to serving the community through open source contributions. The servers' configurations are automatically generated to be fun, fair, and balanced for whatever playstyle suits you. The servers are managed by an IT professional, ensuring stability and responsiveness to issues.
 
 [Full mod list](https://steamcommunity.com/sharedfiles/filedetails/?id=2034121973)
 
