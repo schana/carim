@@ -39,14 +39,11 @@ Come join Carim, the servers dedicated to serving the community through open sou
 
 ### Mods
 
-1. [SchanaModAdminOmniTool](https://github.com/schana/dayz-mod-admin-omni-tool)
-1. [SchanaModAutorun](https://github.com/schana/dayz-mod-autorun)
-1. [SchanaModCompass](https://github.com/schana/dayz-mod-compass)
-1. [SchanaModExpansionChatRCon](https://github.com/schana/dayz-mod-expansion-chat-rcon)
-1. [SchanaModGlobalChat](https://github.com/schana/dayz-mod-global-chat)
-1. [SchanaModLockPick](https://github.com/schana/dayz-mod-lock-pick)
-1. [SchanaModNoVehicleDamage](https://github.com/schana/dayz-mod-no-vehicle-damage)
-1. [SchanaModParty](https://github.com/schana/dayz-mod-party)
-1. [SchanaModPartyPluginVPPMap](https://github.com/schana/dayz-mod-party-plugin-vppmap)
-1. [SchanaModSurvivorSelect](https://github.com/schana/dayz-mod-survivor-select)
-1. [SchanaModTraderNametags](https://github.com/schana/dayz-mod-trader-nametags)
+1. [Carim](https://steamcommunity.com/sharedfiles/filedetails/?id=2123003098)
+   + Server pack for Carim DayZ servers
+1. [SchanaModCompass](https://steamcommunity.com/sharedfiles/filedetails/?id=2067834152)
+   + [GitHub](https://github.com/schana/dayz-mod-compass)
+1. [SchanaModGlobalChat](https://steamcommunity.com/sharedfiles/filedetails/?id=2115602332)
+   + [GitHub](https://github.com/schana/dayz-mod-global-chat)
+1. [SchanaModParty](https://steamcommunity.com/sharedfiles/filedetails/?id=2075831381)
+   + [GitHub](https://github.com/schana/dayz-mod-party)
