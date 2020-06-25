@@ -13,12 +13,6 @@ Classic PvP oriented server with the best features from the best mods
 ```
 
 ```text
-Carim Survival
-178.63.43.16:2502
-Difficult survival with some quality of life improvements like autorun, compass, and party system
-```
-
-```text
 Carim Deathmatch
 178.63.43.16:2402
 Spawn fully equipped with assault rifle and sniper around a location that changes periodically
