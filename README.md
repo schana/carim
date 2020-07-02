@@ -7,7 +7,7 @@ You can support the project by [donating](https://paypal.me/cnofafva). Thank you
 ## DayZ Servers
 
 ```text
-Carim Loot+|Guns+|NPCs+|Airdrops|Trader|Base
+Carim Loot+|Guns+|Party|Autorun|Airdrops
 178.63.43.16:2302
 Classic PvP oriented server with the best features from the best mods
 ```
